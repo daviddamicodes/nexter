@@ -1,2 +1,2 @@
 # nexter
-Realtors Web App
+Realtors Web App (Styled using css Grid)
